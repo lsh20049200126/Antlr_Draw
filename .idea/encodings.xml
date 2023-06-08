@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DRAWBaseVisitor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DRAWParser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/draw_main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/draw_ui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/draw_visitor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/end_draw.py" charset="GBK" />
+  </component>
+</project>

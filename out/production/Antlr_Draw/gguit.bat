@@ -1,0 +1,1 @@
+java org.antlr.v4.Tool DRAW.g4 | javac *.java | java org.antlr.v4.gui.TestRig DRAW program -tokens < test.txt;

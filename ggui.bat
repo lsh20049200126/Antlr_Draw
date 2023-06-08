@@ -1,0 +1,1 @@
+java org.antlr.v4.Tool  DRAW.g4 -visitor -no-listener | javac *.java | java org.antlr.v4.gui.TestRig DRAW program -gui < test.txt
